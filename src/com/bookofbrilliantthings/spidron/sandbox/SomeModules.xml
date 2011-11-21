@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Modules version = "1.0">
+	
+	<Module id="rss">
+		<Source>
+			<Url>http://news.yahoo.com/rss/us</Url>
+		</Source>
+	</Module>
+
+</Modules>
