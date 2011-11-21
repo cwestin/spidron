@@ -8,6 +8,9 @@
 .classpath
 .settings
 
+# ignore the top level bin directory used by eclipse
+bin/
+
 # conmpiled source
 *.com
 *.class
